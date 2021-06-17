@@ -1,5 +1,4 @@
 # Fitbit-Fitness-Tracker-Proj
-Fitbit Fitness Tracker Project
 
 SQL Skills used: Joins, CTE's, Case When, Aggregate Functions, Windows Functions, Creating Views, Converting Data Types
 
